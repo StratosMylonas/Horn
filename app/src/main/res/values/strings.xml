@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Horn</string>
+
+<!--  Main Activity  -->
+    <string name="addNewGroupTxt">Add New Group</string>
+    <string name="addNewGroupDesc">Add New Group</string>
+    <string name="groupName">Group Name</string>
+    <string name="groupStatus">Group Status</string>
+    <string name="addNewGroupName">Group Name</string>
+    <string name="addNewGroupAutofillHint">eg. Wolves</string>
 </resources>

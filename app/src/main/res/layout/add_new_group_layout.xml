@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/layout_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/groupNameTextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/addNewGroupName"
+        android:textSize="20sp"
+        android:textColor="@color/horn_light"/>
+
+    <EditText
+        android:id="@+id/editTextGroupName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/groupNameTextview"
+        android:layout_alignEnd="@id/groupNameTextview"
+        android:layout_below="@id/groupNameTextview"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/horn_light"
+        android:autofillHints="@string/addNewGroupAutofillHint" />
+
+</RelativeLayout>
