@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/drawable/circle.xml" value="0.21770833333333334" />
         <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/drawable/horn_logo.xml" value="0.22864583333333333" />
         <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/drawable/layout_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/drawable/user_image.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/layout/activity_log_in.xml" value="0.2015625" />
         <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/layout/add_new_group_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/layout/circle.xml" value="0.2015625" />
         <entry key="..\:/Users/strat/Android Studio Projects/Horn/app/src/main/res/layout/group_list_item.xml" value="0.25625" />
       </map>
     </option>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408023678493",
+    "firebase_url": "https://horn-109ae-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "horn-109ae",
+    "storage_bucket": "horn-109ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408023678493:android:9db552de00f4829473d0f4",
+        "android_client_info": {
+          "package_name": "com.stratos.horn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408023678493-5jnbqgcohl8u5q9b5fu2vvlnh7aokj1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jvaBdUtho_t0TBDYFaRsX__EutDWpsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408023678493-5jnbqgcohl8u5q9b5fu2vvlnh7aokj1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

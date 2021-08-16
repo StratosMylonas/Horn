@@ -1,11 +1,19 @@
 <resources>
     <string name="app_name">Horn</string>
 
-<!--  Main Activity  -->
+    <!--  Main Activity  -->
     <string name="addNewGroupTxt">Add New Group</string>
     <string name="addNewGroupDesc">Add New Group</string>
     <string name="groupName">Group Name</string>
     <string name="groupStatus">Group Status</string>
     <string name="addNewGroupName">Group Name</string>
     <string name="addNewGroupAutofillHint">eg. Wolves</string>
+
+    <!--  Log In Activity  -->
+    <string name="logInHeader">Log In</string>
+    <string name="facebook_app_id">363364805290637</string>
+    <string name="fb_login_protocol_scheme">fb363364805290637</string>
+
+
+
 </resources>
